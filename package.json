@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": " ",
+  "repository": "https://github.com/jackel89/-tacoswap-sdk-core69.git",
   "keywords": [
   ],
   "module": "dist/sdk-core.esm.js",
